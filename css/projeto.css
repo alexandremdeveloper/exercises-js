@@ -1,0 +1,21 @@
+.minha-div {
+    width: 50%;
+    height: 200px;;
+    background-color: salmon;
+    text-align: center;
+
+}
+
+.form-login{
+    background-color: sandybrown;
+    width: 50%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.sucesso {
+    color: green;
+}
+.erro {
+    color: red;
+}
